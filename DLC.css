@@ -1,0 +1,66 @@
+body {
+  background-image: url("HollowKnight_Godmaster_Poster.png");
+}
+
+ul li {
+  display: inline-block;
+  margin-right: 15px;
+  width: 300px;
+  border-color: black;
+  border-style: solid;
+}
+
+
+
+
+ul li:hover {
+  display: inline-block;
+  margin-right: 15px;
+  width: 300px;
+  border-color: white;
+  border-style: double;
+}
+
+ul li a#menu{
+  color: white;
+  position: relative;
+  text-decoration: none;
+  text-align: center;
+  font-size: 200%;
+}
+
+th {
+  color: white;
+  font-size: 35px;
+  padding-left: 25px;
+}
+
+td.hidden {
+  color: #ec5ffc;
+  font-size: 30px;
+}
+
+td.grimm {
+  color: red;
+  font-size: 30px;
+}
+
+td.life {
+  color: #39ddef;
+  font-size: 30px;
+}
+
+td.info {
+  color: #00ffff;
+  font-size: 30px;
+}
+
+td.godmaster {
+  color: yellow;
+  font-size: 30px;
+}
+
+td {
+  color: white;
+  font-size: 30px;
+}

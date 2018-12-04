@@ -1,0 +1,48 @@
+body {
+  background-image: url("hollow knight falling.jpg");
+}
+
+h1 {
+  color: white;
+  text-align: inherit;
+}
+
+ul li {
+  display: inline-block;
+  margin-right: 15px;
+  width: 300px;
+  border-color: black;
+  border-style: solid;
+
+}
+
+ul li:hover {
+  display: inline-block;
+  margin-right: 15px;
+  width: 300px;
+  border-color: white;
+  border-style: double;
+}
+
+
+a {
+  color: grey;
+  font-size: 35px;
+}
+
+a:hover#menu {
+  color: #bababa;
+}
+
+ul li a#menu{
+  color: white;
+  position: relative;
+  text-decoration: none;
+  text-align: center;
+  font-size: 200%;
+}
+
+p {
+  color: white;
+  font-size: 35px;
+}
